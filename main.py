@@ -26,17 +26,17 @@ START_BTN = ikb(
             ("sᴜᴘᴘᴏʀᴛ", "t.me/mastro_support", "url"),
         ],
         [
-            ("👾 About", "about"),
-            ("📚 Help", "help"),
+            ("ᴀʙᴏᴜᴛ", "about"),
+            ("ʜᴇʟᴘ", "help"),
             ("❌", "close"),
         ],
         [
             (
-                "🔗 Source Code",
+                "Oᴡɴᴇʀ",
                 "https://github.com/AmineSoukara/PyLyricsBot/fork",
                 "url",
             ),
-            ("👨‍💻 Developer", "https://bio.link/aminesoukara", "url"),
+            (" ᴅᴇᴠ", "https://t.me/Mastro_updates/13", "url"),
         ],
     ]
 )
