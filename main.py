@@ -17,7 +17,7 @@ Ly = Client(
 
 genius = Genius(Var.API)
 
-STARTPIC = "https://i.imgur.com/gv2SzKr.jpg"
+STARTPIC = "https://telegra.ph/file/daaf1f7c1569f0cd9ac51.jpg"
 
 START_BTN = ikb(
     [
@@ -33,7 +33,7 @@ START_BTN = ikb(
         [
             (
                 "Oᴡɴᴇʀ",
-                "https://github.com/AmineSoukara/PyLyricsBot/fork",
+                "https://t.me/my_dear_lightbright",
                 "url",
             ),
             (" ᴅᴇᴠ", "https://t.me/Mastro_updates/13", "url"),
@@ -89,7 +89,7 @@ async def cdata(c, q):
 
         test = f"""<p align="center"><a href="#"><img src="{r.song_art_image_url}" width="250"></a></p>"""
 
-        final = test + f"{lyrics}\n-\n📜 From : @PyLyricsBot"
+        final = test + f"{lyrics}\n-\n📜 From : @luna_lyricbot"
         song_title = r.title
         song_artist = r.artist.replace("&", "ft")
         name = f"{song_title} {song_artist}"
@@ -102,8 +102,8 @@ async def cdata(c, q):
         LyBTN = ikb(
             [
                 [
-                    ("🔗 Genius", r.url, "url"),
-                    ("🔗 Telegraph", link, "url"),
+                    ("ɢᴇɴɪᴜs", r.url, "url"),
+                    ("🔗 ᴛᴇʟᴇɢʀᴀᴘʜ", link, "url"),
                 ],
                 [
                     ("❌", "close"),
