@@ -31,12 +31,12 @@ class Var(object):
 class Tr(object):
 
     START_TEXT = """
-👋 Hi ! {} Welcome To @PyLyricsBot !
+👋 Hi ! {} Welcome To @luna_lyricBot !
 
-PyLyrics Is An [Open-Source](https://github.com/AmineSoukara/PyLyricsBot/fork) Bot That Can Help You Get Song Lyrics
+Luna Is An Bot That Can Help You Get Song Lyrics 🎹
 """
 
-    ABOUT_TEXT = """🤖 **My Name:** [Py Lyrics](t.me/PyLyricsBot)
+    ABOUT_TEXT = """🤖 **My Name:** [ʟᴜɴᴀ](t.me/luna_LyricBot)
 
 📝 **Language:** [Python 3](https://www.python.org)
 
