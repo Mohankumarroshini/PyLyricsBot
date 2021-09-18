@@ -22,8 +22,8 @@ STARTPIC = "https://i.imgur.com/gv2SzKr.jpg"
 START_BTN = ikb(
     [
         [
-            ("💬 Updates Channel", "t.me/damiensoukara", "url"),
-            ("🗣 Support Group", "t.me/damienhelp", "url"),
+            ("ᴜᴘᴅᴀᴛᴇs", "t.me/Mastro_Updates", "url"),
+            ("sᴜᴘᴘᴏʀᴛ", "t.me/mastro_support", "url"),
         ],
         [
             ("👾 About", "about"),
