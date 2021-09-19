@@ -27,16 +27,16 @@ START_BTN = ikb(
         ],
         [
             ("ᴀʙᴏᴜᴛ🎶", "about"),
-            ("ʜᴇʟᴘ", "help"),
+            ("ʜᴇʟᴘ🤔", "help"),
             ("❌", "close"),
         ],
         [
             (
-                "Oᴡɴᴇʀ",
+                "Oᴡɴᴇʀ🦁",
                 "https://t.me/my_dear_lightbright",
                 "url",
             ),
-            (" ᴅᴇᴠ", "https://t.me/Mastro_updates/13", "url"),
+            (" ᴅᴇᴠ🐯", "https://t.me/Mastro_updates/13", "url"),
         ],
     ]
 )
@@ -102,8 +102,8 @@ async def cdata(c, q):
         LyBTN = ikb(
             [
                 [
-                    ("ɢᴇɴɪᴜs", r.url, "url"),
-                    ("🔗 ᴛᴇʟᴇɢʀᴀᴘʜ", link, "url"),
+                    ("ɢᴇɴɪᴜs😒", r.url, "url"),
+                    ("🔗 ᴛᴇʟᴇɢʀᴀᴘʜ😉", link, "url"),
                 ],
                 [
                     ("❌", "close"),
