@@ -22,11 +22,11 @@ STARTPIC = "https://telegra.ph/file/daaf1f7c1569f0cd9ac51.jpg"
 START_BTN = ikb(
     [
         [
-            ("ᴜᴘᴅᴀᴛᴇs", "t.me/Mastro_Updates", "url"),
-            ("sᴜᴘᴘᴏʀᴛ", "t.me/mastro_support", "url"),
+            ("ᴜᴘᴅᴀᴛᴇs🦸", "t.me/Mastro_Updates", "url"),
+            ("sᴜᴘᴘᴏʀᴛ🧚", "t.me/mastro_support", "url"),
         ],
         [
-            ("ᴀʙᴏᴜᴛ", "about"),
+            ("ᴀʙᴏᴜᴛ🎶", "about"),
             ("ʜᴇʟᴘ", "help"),
             ("❌", "close"),
         ],
