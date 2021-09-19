@@ -44,21 +44,21 @@ Luna Is An Bot That Can Help You Get Song Lyrics 🎹
 
 📡 **Hosted On:** [Heroku](heroku.com)
 
-👨‍💻 **Developer:** [Amine Soukara](t.me/AmineSoukara)
+👨‍💻 **Developer:** [Tamil Mastro's](https://t.me/Mastro_updates/13)
 
-💡 **Source Code:** [Github](https://github.com/AmineSoukara/PyLyricsBot/fork)
+💡 **Source Code:** Not interested 🙂 sorry
 
-👥 **Support Group:** [Damien Help](https://t.me/DamienHelp)
+👥 **Support Group:** [Mastro Support](https://t.me/Mastro_support)
 
-📢 **Updates Channel:** [Damien Soukara](https://t.me/DamienSoukara)
+📢 **Updates Channel:** [Mastro Updates](https://t.me/mastro_updates)
 
 
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
+❤ [Donate](https://t.me/my_dear_lightbright) (Owner)
 """
 
     HELP_TEXT = """💡 Just Send Me The Name Of The Song.  That's it
 
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
+❤ [Donate](https://t.me/my_dear_lightbright) (Owner)
 """
 
     ERR_TEXT = "⚠️ Genius API Not Found"
